@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/254125281015181974/8f943ec8ad3143f885ef0b845f4d805a/artifacts
+end_time: 1750418909259
+entry_point_name: ''
+experiment_id: '254125281015181974'
+lifecycle_stage: active
+run_id: 8f943ec8ad3143f885ef0b845f4d805a
+run_name: glamorous-seal-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750418909214
+status: 3
+tags: []
+user_id: baqirrizvi

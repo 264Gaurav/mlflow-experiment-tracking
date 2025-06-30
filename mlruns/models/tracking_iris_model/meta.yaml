@@ -1,0 +1,8 @@
+aliases:
+  best_model: '10'
+creation_timestamp: 1750682454581
+deployment_job_id: null
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1750687710150
+name: tracking_iris_model

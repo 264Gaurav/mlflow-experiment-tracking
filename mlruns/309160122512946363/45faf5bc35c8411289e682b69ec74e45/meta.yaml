@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/309160122512946363/45faf5bc35c8411289e682b69ec74e45/artifacts
+end_time: 1750418320109
+entry_point_name: ''
+experiment_id: '309160122512946363'
+lifecycle_stage: active
+run_id: 45faf5bc35c8411289e682b69ec74e45
+run_name: suave-ray-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750418320090
+status: 3
+tags: []
+user_id: baqirrizvi

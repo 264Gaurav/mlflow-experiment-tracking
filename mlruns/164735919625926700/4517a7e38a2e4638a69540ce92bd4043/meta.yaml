@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/164735919625926700/4517a7e38a2e4638a69540ce92bd4043/artifacts
+end_time: 1750687744973
+entry_point_name: ''
+experiment_id: '164735919625926700'
+lifecycle_stage: active
+run_id: 4517a7e38a2e4638a69540ce92bd4043
+run_name: bald-cow-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750687743776
+status: 3
+tags: []
+user_id: baqirrizvi

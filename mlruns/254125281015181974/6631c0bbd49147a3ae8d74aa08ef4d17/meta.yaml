@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/254125281015181974/6631c0bbd49147a3ae8d74aa08ef4d17/artifacts
+end_time: 1750418456205
+entry_point_name: ''
+experiment_id: '254125281015181974'
+lifecycle_stage: active
+run_id: 6631c0bbd49147a3ae8d74aa08ef4d17
+run_name: valuable-panda-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750418456182
+status: 3
+tags: []
+user_id: baqirrizvi

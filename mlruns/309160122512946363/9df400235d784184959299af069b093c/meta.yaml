@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/309160122512946363/9df400235d784184959299af069b093c/artifacts
+end_time: 1750418307891
+entry_point_name: ''
+experiment_id: '309160122512946363'
+lifecycle_stage: active
+run_id: 9df400235d784184959299af069b093c
+run_name: capable-croc-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750418307873
+status: 3
+tags: []
+user_id: baqirrizvi

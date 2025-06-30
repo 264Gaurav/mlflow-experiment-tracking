@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/164735919625926700/df6b564bc1194a73b02c1c5f4eba6715/artifacts
+end_time: 1750684370242
+entry_point_name: ''
+experiment_id: '164735919625926700'
+lifecycle_stage: active
+run_id: df6b564bc1194a73b02c1c5f4eba6715
+run_name: Basic Logistic Regression model for iris data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750684368896
+status: 3
+tags: []
+user_id: baqirrizvi

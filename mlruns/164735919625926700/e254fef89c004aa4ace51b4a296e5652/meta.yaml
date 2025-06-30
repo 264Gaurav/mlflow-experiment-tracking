@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/164735919625926700/e254fef89c004aa4ace51b4a296e5652/artifacts
+end_time: 1750686951640
+entry_point_name: ''
+experiment_id: '164735919625926700'
+lifecycle_stage: active
+run_id: e254fef89c004aa4ace51b4a296e5652
+run_name: orderly-cub-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750686950349
+status: 3
+tags: []
+user_id: baqirrizvi

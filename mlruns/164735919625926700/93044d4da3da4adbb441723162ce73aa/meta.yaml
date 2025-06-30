@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/164735919625926700/93044d4da3da4adbb441723162ce73aa/artifacts
+end_time: 1750687031641
+entry_point_name: ''
+experiment_id: '164735919625926700'
+lifecycle_stage: active
+run_id: 93044d4da3da4adbb441723162ce73aa
+run_name: abundant-elk-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750687030434
+status: 3
+tags: []
+user_id: baqirrizvi

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/164735919625926700/aa5a9c56d6334992ab8b3c93d92bedfa/artifacts
+end_time: 1750685529266
+entry_point_name: ''
+experiment_id: '164735919625926700'
+lifecycle_stage: active
+run_id: aa5a9c56d6334992ab8b3c93d92bedfa
+run_name: traveling-sponge-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750685527967
+status: 3
+tags: []
+user_id: baqirrizvi

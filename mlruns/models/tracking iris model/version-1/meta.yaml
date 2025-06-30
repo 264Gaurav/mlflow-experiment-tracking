@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1750682061706
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1750682061706
+metrics: null
+model_id: m-f3032dc217994246b84a297f792a64e9
+name: tracking iris model
+params: null
+run_id: 9c0e9f84720243f0b06aa1d2c108a4fc
+run_link: ''
+source: models:/m-f3032dc217994246b84a297f792a64e9
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/164735919625926700/models/m-f3032dc217994246b84a297f792a64e9/artifacts
+user_id: null
+version: 1
