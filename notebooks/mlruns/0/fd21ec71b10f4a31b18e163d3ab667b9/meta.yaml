@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/baqirrizvi/Desktop/MLOps/expTrack/notebooks/mlruns/0/fd21ec71b10f4a31b18e163d3ab667b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd21ec71b10f4a31b18e163d3ab667b9
+run_name: fortunate-snake-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751366850207
+status: 1
+tags: []
+user_id: baqirrizvi

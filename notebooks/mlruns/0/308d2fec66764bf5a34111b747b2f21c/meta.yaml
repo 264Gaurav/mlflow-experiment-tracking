@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/baqirrizvi/Desktop/MLOps/expTrack/notebooks/mlruns/0/308d2fec66764bf5a34111b747b2f21c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 308d2fec66764bf5a34111b747b2f21c
+run_name: powerful-snail-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751363978316
+status: 1
+tags: []
+user_id: baqirrizvi

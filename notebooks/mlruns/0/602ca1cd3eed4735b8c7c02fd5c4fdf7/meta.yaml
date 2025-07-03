@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/baqirrizvi/Desktop/MLOps/expTrack/notebooks/mlruns/0/602ca1cd3eed4735b8c7c02fd5c4fdf7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 602ca1cd3eed4735b8c7c02fd5c4fdf7
+run_name: powerful-pig-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751362227783
+status: 1
+tags: []
+user_id: baqirrizvi
