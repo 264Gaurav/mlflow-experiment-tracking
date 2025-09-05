@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/164735919625926700/ded5647fe339409b9d6fd00ba1165c17/artifacts
+end_time: 1757069410546
+entry_point_name: ''
+experiment_id: '164735919625926700'
+lifecycle_stage: active
+run_id: ded5647fe339409b9d6fd00ba1165c17
+run_name: learned-conch-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757069408888
+status: 3
+tags: []
+user_id: baqirrizvi
