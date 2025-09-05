@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/309160122512946363/44d2cf4514964fafa5e05dca904e8525/artifacts
+end_time: 1757065077858
+entry_point_name: ''
+experiment_id: '309160122512946363'
+lifecycle_stage: active
+run_id: 44d2cf4514964fafa5e05dca904e8525
+run_name: handsome-moth-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757065077839
+status: 3
+tags: []
+user_id: baqirrizvi

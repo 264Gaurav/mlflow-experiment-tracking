@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/164735919625926700/54eaade19e864961bd067600c2e94355/artifacts
+end_time: 1751559262457
+entry_point_name: ''
+experiment_id: '164735919625926700'
+lifecycle_stage: active
+run_id: 54eaade19e864961bd067600c2e94355
+run_name: delicate-foal-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751559261289
+status: 3
+tags: []
+user_id: baqirrizvi

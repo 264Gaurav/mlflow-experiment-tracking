@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/309160122512946363/2b92444e269d4bd59459e50fd76ba72d/artifacts
+end_time: 1757061132455
+entry_point_name: ''
+experiment_id: '309160122512946363'
+lifecycle_stage: active
+run_id: 2b92444e269d4bd59459e50fd76ba72d
+run_name: zealous-crane-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757061132433
+status: 3
+tags: []
+user_id: baqirrizvi

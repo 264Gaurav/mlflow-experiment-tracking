@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/309160122512946363/41060f040c784ca8a7c5be05d7a1f30c/artifacts
+end_time: 1757060658861
+entry_point_name: ''
+experiment_id: '309160122512946363'
+lifecycle_stage: active
+run_id: 41060f040c784ca8a7c5be05d7a1f30c
+run_name: popular-mare-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757060658837
+status: 3
+tags: []
+user_id: baqirrizvi

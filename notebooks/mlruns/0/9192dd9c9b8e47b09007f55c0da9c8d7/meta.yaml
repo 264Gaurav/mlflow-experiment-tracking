@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/baqirrizvi/Desktop/MLOps/expTrack/notebooks/mlruns/0/9192dd9c9b8e47b09007f55c0da9c8d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9192dd9c9b8e47b09007f55c0da9c8d7
+run_name: salty-skink-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751560114450
+status: 1
+tags: []
+user_id: baqirrizvi
