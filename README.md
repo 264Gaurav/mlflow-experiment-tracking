@@ -15,3 +15,5 @@ uv add -r requirements.txt
 ```bash
   mlflow ui
 ```
+
+## Start with MLFlow : look into [MLFlow Quick Start Readme](./notebooks/Readme.md).
